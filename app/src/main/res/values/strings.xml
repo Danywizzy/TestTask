@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TestTask</string>
+    <string name="reload_all">Reload all</string>
+    <string name="add_image">Add image</string>
+</resources>
